@@ -71,5 +71,5 @@ body {
   align-items: center;
   flex-wrap: wrap;
   gap: 100px;
-  flex: 1 50%;
+  flex: 1 1 1 100%;
 }
