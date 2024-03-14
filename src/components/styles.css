@@ -43,7 +43,7 @@ body {
   padding: 20px;
   max-width: 400px;
   text-align: center;
-  height: 1500px; /* Adjust as needed */
+  height: 1450px; /* Adjust as needed */
 }
 
 .card-image {
@@ -66,7 +66,7 @@ body {
 }
 
 .container {
-  display: flex;
+  display: auto;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
